@@ -1,0 +1,409 @@
+instances/a280.tsp
+Dimension: 280
+Exemplo de Solucao s = 
+
+Custo Total Medio: 2579.3
+Tempo Medio do Programa: 68.9508
+instances/ali535.tsp
+Dimension: 535
+Exemplo de Solucao s = 
+
+Custo Total Medio: 202808
+Tempo Medio do Programa: 661.116
+instances/att48.tsp
+Dimension: 48
+Exemplo de Solucao s = 
+
+Custo Total Medio: 10628
+Tempo Medio do Programa: 0.479052
+instances/att532.tsp
+Dimension: 532
+Exemplo de Solucao s = 
+
+Custo Total Medio: 27824
+Tempo Medio do Programa: 605.802
+instances/bayg29.tsp
+Dimension: 29
+Exemplo de Solucao s = 
+
+Custo Total Medio: 1610
+Tempo Medio do Programa: 0.105999
+instances/bays29.tsp
+Dimension: 29
+Exemplo de Solucao s = 
+
+Custo Total Medio: 2020
+Tempo Medio do Programa: 0.121599
+instances/berlin52.tsp
+Dimension: 52
+Exemplo de Solucao s = 
+
+Custo Total Medio: 7542
+Tempo Medio do Programa: 0.541223
+instances/bier127.tsp
+Dimension: 127
+Exemplo de Solucao s = 
+
+Custo Total Medio: 118300
+Tempo Medio do Programa: 8.68622
+instances/brazil58.tsp
+Dimension: 58
+Exemplo de Solucao s = 
+
+Custo Total Medio: 25395
+Tempo Medio do Programa: 0.684346
+instances/brg180.tsp
+Dimension: 180
+Exemplo de Solucao s = 
+
+Custo Total Medio: 1953
+Tempo Medio do Programa: 14.2624
+instances/burma14.tsp
+Dimension: 14
+Exemplo de Solucao s = 
+
+Custo Total Medio: 3323
+Tempo Medio do Programa: 0.0172896
+instances/ch130.tsp
+Dimension: 130
+Exemplo de Solucao s = 
+
+Custo Total Medio: 6110
+Tempo Medio do Programa: 9.04345
+instances/ch150.tsp
+Dimension: 150
+Exemplo de Solucao s = 
+
+Custo Total Medio: 6529.5
+Tempo Medio do Programa: 11.9416
+instances/d198.tsp
+Dimension: 198
+Exemplo de Solucao s = 
+
+Custo Total Medio: 15781.6
+Tempo Medio do Programa: 30.45
+instances/d493.tsp
+Dimension: 493
+Exemplo de Solucao s = 
+
+Custo Total Medio: 35160.6
+Tempo Medio do Programa: 455.754
+instances/dantzig42.tsp
+Dimension: 42
+Exemplo de Solucao s = 
+
+Custo Total Medio: 699
+Tempo Medio do Programa: 0.30749
+instances/eil101.tsp
+Dimension: 101
+Exemplo de Solucao s = 
+
+Custo Total Medio: 629
+Tempo Medio do Programa: 4.27743
+instances/eil51.tsp
+Dimension: 51
+Exemplo de Solucao s = 
+
+Custo Total Medio: 426
+Tempo Medio do Programa: 0.585051
+instances/eil76.tsp
+Dimension: 76
+Exemplo de Solucao s = 
+
+Custo Total Medio: 538
+Tempo Medio do Programa: 1.93399
+instances/fl417.tsp
+Dimension: 417
+Exemplo de Solucao s = 
+
+Custo Total Medio: 11865.5
+Tempo Medio do Programa: 224.027
+instances/fri26.tsp
+Dimension: 26
+Exemplo de Solucao s = 
+
+Custo Total Medio: 937
+Tempo Medio do Programa: 0.0921569
+instances/gil262.tsp
+Dimension: 262
+Exemplo de Solucao s = 
+
+Custo Total Medio: 2381.1
+Tempo Medio do Programa: 64.0951
+instances/gr120.tsp
+Dimension: 120
+Exemplo de Solucao s = 
+
+Custo Total Medio: 6942
+Tempo Medio do Programa: 7.82331
+instances/gr137.tsp
+Dimension: 137
+Exemplo de Solucao s = 
+
+Custo Total Medio: 69853
+Tempo Medio do Programa: 9.6793
+instances/gr17.tsp
+Dimension: 17
+Exemplo de Solucao s = 
+
+Custo Total Medio: 2085
+Tempo Medio do Programa: 0.0287614
+instances/gr202.tsp
+Dimension: 202
+Exemplo de Solucao s = 
+
+Custo Total Medio: 40175.9
+Tempo Medio do Programa: 33.6242
+instances/gr21.tsp
+Dimension: 21
+Exemplo de Solucao s = 
+
+Custo Total Medio: 2707
+Tempo Medio do Programa: 0.0463683
+instances/gr229.tsp
+Dimension: 229
+Exemplo de Solucao s = 
+
+Custo Total Medio: 134705
+Tempo Medio do Programa: 48.3421
+instances/gr24.tsp
+Dimension: 24
+Exemplo de Solucao s = 
+
+Custo Total Medio: 1272
+Tempo Medio do Programa: 0.0712084
+instances/gr431.tsp
+Dimension: 431
+Exemplo de Solucao s = 
+
+Custo Total Medio: 172070
+Tempo Medio do Programa: 340.53
+instances/gr48.tsp
+Dimension: 48
+Exemplo de Solucao s = 
+
+Custo Total Medio: 5046
+Tempo Medio do Programa: 0.500046
+instances/gr96.tsp
+Dimension: 96
+Exemplo de Solucao s = 
+
+Custo Total Medio: 55209
+Tempo Medio do Programa: 3.48474
+instances/hk48.tsp
+Dimension: 48
+Exemplo de Solucao s = 
+
+Custo Total Medio: 11461
+Tempo Medio do Programa: 0.510677
+instances/kroA100.tsp
+Dimension: 100
+Exemplo de Solucao s = 
+
+Custo Total Medio: 21282
+Tempo Medio do Programa: 3.46599
+instances/kroA150.tsp
+Dimension: 150
+Exemplo de Solucao s = 
+
+Custo Total Medio: 26524
+Tempo Medio do Programa: 13.1224
+instances/kroA200.tsp
+Dimension: 200
+Exemplo de Solucao s = 
+
+Custo Total Medio: 29377.5
+Tempo Medio do Programa: 29.7688
+instances/kroB100.tsp
+Dimension: 100
+Exemplo de Solucao s = 
+
+Custo Total Medio: 22141
+Tempo Medio do Programa: 3.81873
+instances/kroB150.tsp
+Dimension: 150
+Exemplo de Solucao s = 
+
+Custo Total Medio: 26130
+Tempo Medio do Programa: 13.2601
+instances/kroB200.tsp
+Dimension: 200
+Exemplo de Solucao s = 
+
+Custo Total Medio: 29442.9
+Tempo Medio do Programa: 31.8582
+instances/kroC100.tsp
+Dimension: 100
+Exemplo de Solucao s = 
+
+Custo Total Medio: 20749
+Tempo Medio do Programa: 3.54301
+instances/kroD100.tsp
+Dimension: 100
+Exemplo de Solucao s = 
+
+Custo Total Medio: 21294
+Tempo Medio do Programa: 4.02312
+instances/kroE100.tsp
+Dimension: 100
+Exemplo de Solucao s = 
+
+Custo Total Medio: 22068
+Tempo Medio do Programa: 3.86741
+instances/lin105.tsp
+Dimension: 105
+Exemplo de Solucao s = 
+
+Custo Total Medio: 14379
+Tempo Medio do Programa: 4.19398
+instances/lin318.tsp
+Dimension: 318
+Exemplo de Solucao s = 
+
+Custo Total Medio: 42150.3
+Tempo Medio do Programa: 111.728
+instances/linhp318.tsp
+Dimension: 318
+Exemplo de Solucao s = 
+
+Custo Total Medio: 42154.3
+Tempo Medio do Programa: 110.606
+instances/pcb442.tsp
+Dimension: 442
+Exemplo de Solucao s = 
+
+Custo Total Medio: 51048.7
+Tempo Medio do Programa: 285.328
+instances/pr107.tsp
+Dimension: 107
+Exemplo de Solucao s = 
+
+Custo Total Medio: 44303
+Tempo Medio do Programa: 4.39001
+instances/pr124.tsp
+Dimension: 124
+Exemplo de Solucao s = 
+
+Custo Total Medio: 59030
+Tempo Medio do Programa: 5.97442
+instances/pr136.tsp
+Dimension: 136
+Exemplo de Solucao s = 
+
+Custo Total Medio: 96772
+Tempo Medio do Programa: 10.8381
+instances/pr144.tsp
+Dimension: 144
+Exemplo de Solucao s = 
+
+Custo Total Medio: 58537
+Tempo Medio do Programa: 8.36333
+instances/pr152.tsp
+Dimension: 152
+Exemplo de Solucao s = 
+
+Custo Total Medio: 73682
+Tempo Medio do Programa: 10.2784
+instances/pr226.tsp
+Dimension: 226
+Exemplo de Solucao s = 
+
+Custo Total Medio: 80369
+Tempo Medio do Programa: 43.0799
+instances/pr264.tsp
+Dimension: 264
+Exemplo de Solucao s = 
+
+Custo Total Medio: 49135
+Tempo Medio do Programa: 47.6224
+instances/pr299.tsp
+Dimension: 299
+Exemplo de Solucao s = 
+
+Custo Total Medio: 48202.6
+Tempo Medio do Programa: 95.3682
+instances/pr76.tsp
+Dimension: 76
+Exemplo de Solucao s = 
+
+Custo Total Medio: 108159
+Tempo Medio do Programa: 1.62052
+instances/rat195.tsp
+Dimension: 195
+Exemplo de Solucao s = 
+
+Custo Total Medio: 2326.9
+Tempo Medio do Programa: 27.3691
+instances/rat99.tsp
+Dimension: 99
+Exemplo de Solucao s = 
+
+Custo Total Medio: 1211
+Tempo Medio do Programa: 4.01089
+instances/rd100.tsp
+Dimension: 100
+Exemplo de Solucao s = 
+
+Custo Total Medio: 7910
+Tempo Medio do Programa: 3.99077
+instances/rd400.tsp
+Dimension: 400
+Exemplo de Solucao s = 
+
+Custo Total Medio: 15347.8
+Tempo Medio do Programa: 249.493
+instances/si175.tsp
+Dimension: 175
+Exemplo de Solucao s = 
+
+Custo Total Medio: 21407
+Tempo Medio do Programa: 16.8157
+instances/si535.tsp
+Dimension: 535
+Exemplo de Solucao s = 
+
+Custo Total Medio: 48502
+Tempo Medio do Programa: 354.749
+instances/st70.tsp
+Dimension: 70
+Exemplo de Solucao s = 
+
+Custo Total Medio: 675
+Tempo Medio do Programa: 1.41391
+instances/swiss42.tsp
+Dimension: 42
+Exemplo de Solucao s = 
+
+Custo Total Medio: 1273
+Tempo Medio do Programa: 0.284311
+instances/ts225.tsp
+Dimension: 225
+Exemplo de Solucao s = 
+
+Custo Total Medio: 126643
+Tempo Medio do Programa: 25.8187
+instances/tsp225.tsp
+Dimension: 225
+Exemplo de Solucao s = 
+
+Custo Total Medio: 3922.9
+Tempo Medio do Programa: 40.5981
+instances/u159.tsp
+Dimension: 159
+Exemplo de Solucao s = 
+
+Custo Total Medio: 42080
+Tempo Medio do Programa: 12.5194
+instances/ulysses16.tsp
+Dimension: 16
+Exemplo de Solucao s = 
+
+Custo Total Medio: 6859
+Tempo Medio do Programa: 0.0241903
+instances/ulysses22.tsp
+Dimension: 22
+Exemplo de Solucao s = 
+
+Custo Total Medio: 7013
+Tempo Medio do Programa: 0.055664
+-
